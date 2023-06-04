@@ -5,7 +5,7 @@ const Home = () => (
     <h1 className='head_text text-center'>
       
       <br className='max-md:hidden' />
-      <span className='orange_gradient text-center'> Andalusien kennen  - Andalusia  lieben ♥ 
+      <span className='orange_gradient text-center'> Andalusien kennen  - Andalusien lieben ♥ </span>
     </h1>
     <p className='desc text-center'>
   Lebe Deinen Wohntraum !!!
