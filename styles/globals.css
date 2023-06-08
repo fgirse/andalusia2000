@@ -169,8 +169,4 @@
   @apply flex justify-between items-center;
 }
 
-#bghero {
-  background-image: url("/assets/images/andalusiaHero");
-	 background-size: cover;
-background-repeat: no-repeat; 
-}
+
